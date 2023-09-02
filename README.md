@@ -1,5 +1,8 @@
 ### Hi there 👋
-안녕!
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEUNGMOON%20Github!&fontSize=77)
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" /> -->
+
+#61DAFB
 <!--
 **mintcoffeee/mintcoffeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
